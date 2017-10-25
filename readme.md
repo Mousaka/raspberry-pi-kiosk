@@ -28,7 +28,7 @@ Then we will start the rasps-config tool by calling the command `sudo raspi-conf
 
 - Update the Raspi config tool (Advanced Options)
 - Disable overscan. This option tries to adjust the resolution for your Raspberry Pi. But it will only f**k things up :) (Advanced Options)
-- Enable SSH when you want to proceed the configure process threw SSH (Advanced Options) This is optional.
+- Enable SSH when you want to proceed the configure process through SSH (Advanced Options) This is optional.
 
 When calling the update and upgrade commands chromium will also be installed. 
 
