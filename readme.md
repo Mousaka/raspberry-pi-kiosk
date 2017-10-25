@@ -26,7 +26,7 @@ sudo apt-get install unclutter
 
 Then we will start the rasps-config tool by calling the command `sudo raspi-config`
 
-- Update the Raspi config tool (Advanced Options)
+- Update the Raspi config tool
 - Disable overscan. This option tries to adjust the resolution for your Raspberry Pi. But it will only f**k things up :) (Advanced Options)
 - Enable SSH when you want to proceed the configure process through SSH (Advanced Options) This is optional.
 
